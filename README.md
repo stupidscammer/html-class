@@ -1,2 +1,2 @@
 # HTML-Class
- Written by Lucas Donnelly...
+ Written by Lucas Donnelly
